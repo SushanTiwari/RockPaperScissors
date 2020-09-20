@@ -1,0 +1,105 @@
+Enter number of rounds: 
+10
+Round 1: Player 1 selects Paper
+Round 1: Player 2 selects Scissors
+Round 1: Player 2 wins!
+Round 1: Player 1 loses!
+
+Round 2: Player 2 selects Paper
+Round 2: Player 1 selects Paper
+Round 2: Draw
+
+Round 3: Player 1 selects Paper
+Round 3: Player 2 selects Rock
+Round 3: Player 2 wins!
+Round 3: Player 1 loses!
+
+Round 4: Player 2 selects Rock
+Round 4: Player 1 selects Scissors
+Round 4: Player 1 wins!
+Round 4: Player 2 loses!
+
+Round 5: Player 1 selects Scissors
+Round 5: Player 2 selects Paper
+Round 5: Player 2 wins!
+Round 5: Player 1 loses!
+
+Round 6: Player 2 selects Rock
+Round 6: Player 1 selects Rock
+Round 6: Draw
+
+Round 7: Player 1 selects Scissors
+Round 7: Player 2 selects Paper
+Round 7: Player 2 wins!
+Round 7: Player 1 loses!
+
+Round 8: Player 2 selects Rock
+Round 8: Player 1 selects Scissors
+Round 8: Player 1 wins!
+Round 8: Player 2 loses!
+
+Round 9: Player 1 selects Scissors
+Round 9: Player 2 selects Scissors
+Round 9: Draw
+
+Round 10: Player 2 selects Paper
+Round 10: Player 1 selects Scissors
+Round 10: Player 1 wins!
+Round 10: Player 2 loses!
+
+Summary Statistics:
+Number of draws: 3
+Number of times scissors won: 4
+Number of times rock won: 1
+Number of times paper won: 2
+Round 1: Player 1 selects Scissors
+Round 1: Player 2 selects Rock
+Round 1: Player 1 wins!
+Round 1: Player 2 loses!
+
+Round 2: Player 2 selects Scissors
+Round 2: Player 1 selects Paper
+Round 2: Player 1 wins!
+Round 2: Player 2 loses!
+
+Round 3: Player 1 selects Paper
+Round 3: Player 2 selects Paper
+Round 3: Draw
+
+Round 4: Player 2 selects Rock
+Round 4: Player 1 selects Rock
+Round 4: Draw
+
+Round 5: Player 1 selects Scissors
+Round 5: Player 2 selects Scissors
+Round 5: Draw
+
+Round 6: Player 2 selects Scissors
+Round 6: Player 1 selects Paper
+Round 6: Player 1 wins!
+Round 6: Player 2 loses!
+
+Round 7: Player 1 selects Scissors
+Round 7: Player 2 selects Scissors
+Round 7: Draw
+
+Round 8: Player 2 selects Scissors
+Round 8: Player 1 selects Scissors
+Round 8: Draw
+
+Round 9: Player 1 selects Paper
+Round 9: Player 2 selects Rock
+Round 9: Player 2 wins!
+Round 9: Player 1 loses!
+
+Round 10: Player 2 selects Scissors
+Round 10: Player 1 selects Rock
+Round 10: Player 2 wins!
+Round 10: Player 1 loses!
+
+Summary Statistics:
+Number of draws: 8
+Number of times scissors won: 6
+Number of times rock won: 2
+Number of times paper won: 4
+
